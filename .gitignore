@@ -29,5 +29,5 @@ dist-ssr
 *.env
 
 # Rust
-target/
-**/target/
+api-rust/target/
+**/Cargo.lock
